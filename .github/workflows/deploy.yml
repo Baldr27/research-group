@@ -29,18 +29,11 @@ jobs:
 
       - name: Install R Dependencies
         run: |
-          install.packages(c('rmarkdown', 'knitr', 'bslib'))
+          install.packages(c('rmarkdown', 'knitr', 'babelquarto'))
         shell: Rscript {0}
 
       - name: Render Site
         run: Rscript render.R
-        env:
-          BUNDLE_EXT: linux-amd64.deb
-          R_LIBS_USER: /home/runner/work/_temp/Library
-          TZ: UTC
-          _R_CHECK_SYSTEM_CLOCK_: FALSE
-          NOT_CRAN: true
-        shell: /usr/bin/bash -e {0}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
