@@ -1,9 +1,6 @@
 name: Deploy to GitHub Pages
 
-permissions:
-  contents: write
-  pages: write
-  id-token: write
+permissions: write-all
 
 on:
   push:
@@ -13,6 +10,8 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Check out repository
         uses: actions/checkout@v4
@@ -32,14 +31,10 @@ jobs:
       - name: Render Site
         run: Rscript render.R
 
-      - name: Setup Pages
-        uses: actions/configure-pages@v4
-
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+      - name: Publish
+        uses: quarto-dev/quarto-actions/publish@v2
         with:
-          path: '_site'
-
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v3
+          target: gh-pages
+          render: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
