@@ -17,7 +17,7 @@ format:
 
 website:
   title: "Research Group"
-  site-url: "baldr27.github.io/research-group/"
+  site-url: "https://baldr27.github.io/research-group/"
   description: "Research Group Website"
   navbar:
     title: "Research Group"
