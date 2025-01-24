@@ -35,39 +35,11 @@
     "text": "Authors: Toshiki Hirao, Farshad Kazemi\nVenue: ICSE 2024\nRelated Tags: ICSE, 2024\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Predicting Build Failures in Modern Software Systems,\n  author = Toshiki Hirao and Farshad Kazemi,\n  journal = ICSE 2024,\n  year = build breakage,\n}"
   },
   {
-    "objectID": "publications/build_failure_prediction_icse2024.es.html",
-    "href": "publications/build_failure_prediction_icse2024.es.html",
-    "title": "Predicción de Fallos de Construcción Usando Aprendizaje Automático",
-    "section": "",
-    "text": "Este artículo presenta un enfoque novedoso para predecir fallos en la construcción de software utilizando técnicas de aprendizaje automático. Nuestro modelo puede identificar potenciales fallos de construcción antes de que ocurran, permitiendo a los equipos de desarrollo tomar medidas preventivas."
-  },
-  {
-    "objectID": "publications/build_failure_prediction_icse2024.es.html#resumen",
-    "href": "publications/build_failure_prediction_icse2024.es.html#resumen",
-    "title": "Predicción de Fallos de Construcción Usando Aprendizaje Automático",
-    "section": "",
-    "text": "Este artículo presenta un enfoque novedoso para predecir fallos en la construcción de software utilizando técnicas de aprendizaje automático. Nuestro modelo puede identificar potenciales fallos de construcción antes de que ocurran, permitiendo a los equipos de desarrollo tomar medidas preventivas."
-  },
-  {
-    "objectID": "publications/build_failure_prediction_icse2024.es.html#contribuciones-principales",
-    "href": "publications/build_failure_prediction_icse2024.es.html#contribuciones-principales",
-    "title": "Predicción de Fallos de Construcción Usando Aprendizaje Automático",
-    "section": "Contribuciones Principales",
-    "text": "Contribuciones Principales\n\nDesarrollo de un modelo predictivo para fallos de construcción\nAnálisis exhaustivo de patrones de fallo en sistemas CI\nEvaluación empírica en proyectos de software de código abierto\nHerramienta de código abierto para la predicción de fallos"
-  },
-  {
     "objectID": "publications.html",
     "href": "publications.html",
     "title": "List of Publications",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nAnalyzing Resource Waste in Large-Scale Software Ecosystems\n\n\nAuthors: Keheliya Gallaba,Mahboob Alfadel\n\n\nVenue: EMSE 2022\n\n\nPreprint: PDF\n\n\nRelated Tags: EMSE,2022,Software Logging\n\n\n\n\nFlaky Tests in Software Development: Causes and Remedies\n\n\nAuthors: Toshiki Hirao,Rungroj Maipradit\n\n\nVenue: MSR 2018\n\n\nPreprint: PDF\n\n\nRelated Tags: MSR,2018,Defect Prediction\n\n\n\n\nImproving Continuous Integration with Static Analysis Tools\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: FSE 2023\n\n\nPreprint: PDF\n\n\nRelated Tags: FSE,2023,Software Evolution\n\n\n\n\nImproving Software Build Performance with Automated Tools\n\n\nAuthors: Faizan Khan,Keheliya Gallaba\n\n\nVenue: TSE 2020\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2020,Build Systems\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nPredicción de Fallos de Construcción Usando Aprendizaje Automático\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Integración Continua,Aprendizaje Automático\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nPrédiction des Échecs de Construction par Apprentissage Automatique\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Intégration Continue,Apprentissage Automatique\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nStatic Analysis Tools for Build System Optimization\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: APSEC 2017\n\n\nPreprint: PDF\n\n\nRelated Tags: APSEC,2017,Software Logging\n\n\n\n\nUnderstanding Anti-patterns in Software Development\n\n\nAuthors: Mahboob Alfadel,Rungroj Maipradit\n\n\nVenue: ASE 2021\n\n\nPreprint: PDF\n\n\nRelated Tags: ASE,2021,Software Logging\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "publications.es.html",
-    "href": "publications.es.html",
-    "title": "Lista de Publicaciones",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Categorías\n        \n     \n  \n\n\n\n\nAnalyzing Resource Waste in Large-Scale Software Ecosystems\n\n\nAuthors: Keheliya Gallaba,Mahboob Alfadel\n\n\nVenue: EMSE 2022\n\n\nPreprint: PDF\n\n\nRelated Tags: EMSE,2022,Software Logging\n\n\n\n\nFlaky Tests in Software Development: Causes and Remedies\n\n\nAuthors: Toshiki Hirao,Rungroj Maipradit\n\n\nVenue: MSR 2018\n\n\nPreprint: PDF\n\n\nRelated Tags: MSR,2018,Defect Prediction\n\n\n\n\nImproving Continuous Integration with Static Analysis Tools\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: FSE 2023\n\n\nPreprint: PDF\n\n\nRelated Tags: FSE,2023,Software Evolution\n\n\n\n\nImproving Software Build Performance with Automated Tools\n\n\nAuthors: Faizan Khan,Keheliya Gallaba\n\n\nVenue: TSE 2020\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2020,Build Systems\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nPredicción de Fallos de Construcción Usando Aprendizaje Automático\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Integración Continua,Aprendizaje Automático\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nPrédiction des Échecs de Construction par Apprentissage Automatique\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Intégration Continue,Apprentissage Automatique\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nStatic Analysis Tools for Build System Optimization\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: APSEC 2017\n\n\nPreprint: PDF\n\n\nRelated Tags: APSEC,2017,Software Logging\n\n\n\n\nUnderstanding Anti-patterns in Software Development\n\n\nAuthors: Mahboob Alfadel,Rungroj Maipradit\n\n\nVenue: ASE 2021\n\n\nPreprint: PDF\n\n\nRelated Tags: ASE,2021,Software Logging\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nAnalyzing Resource Waste in Large-Scale Software Ecosystems\n\n\nAuthors: Keheliya Gallaba,Mahboob Alfadel\n\n\nVenue: EMSE 2022\n\n\nPreprint: PDF\n\n\nRelated Tags: EMSE,2022,Software Logging\n\n\n\n\nFlaky Tests in Software Development: Causes and Remedies\n\n\nAuthors: Toshiki Hirao,Rungroj Maipradit\n\n\nVenue: MSR 2018\n\n\nPreprint: PDF\n\n\nRelated Tags: MSR,2018,Defect Prediction\n\n\n\n\nImproving Continuous Integration with Static Analysis Tools\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: FSE 2023\n\n\nPreprint: PDF\n\n\nRelated Tags: FSE,2023,Software Evolution\n\n\n\n\nImproving Software Build Performance with Automated Tools\n\n\nAuthors: Faizan Khan,Keheliya Gallaba\n\n\nVenue: TSE 2020\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2020,Build Systems\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nStatic Analysis Tools for Build System Optimization\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: APSEC 2017\n\n\nPreprint: PDF\n\n\nRelated Tags: APSEC,2017,Software Logging\n\n\n\n\nUnderstanding Anti-patterns in Software Development\n\n\nAuthors: Mahboob Alfadel,Rungroj Maipradit\n\n\nVenue: ASE 2021\n\n\nPreprint: PDF\n\n\nRelated Tags: ASE,2021,Software Logging\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/mutation_testing_framework.html",
@@ -98,53 +70,11 @@
     "text": "Team Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\nStatus: Active\nResearch Areas: Build Systems, Machine Learning\nGitHub: Repository\nProject Overview: This project develops predictive models to identify potential build failures before they occur. By analyzing historical build data, code changes, and system configurations, we aim to provide early warnings and suggestions to prevent build breakages.\nKey Objectives: - Create predictive models for build failure detection - Identify key indicators of build instability - Develop real-time monitoring and alert systems - Generate actionable recommendations for developers\nCurrent Progress: - Collected extensive build history data - Developed initial prediction models - Created prototype monitoring system - Testing integration with CI/CD pipelines"
   },
   {
-    "objectID": "projects/build_failure_prediction.es.html",
-    "href": "projects/build_failure_prediction.es.html",
-    "title": "Análisis Predictivo para Sistemas de Construcción",
-    "section": "",
-    "text": "Este proyecto se centra en el desarrollo de técnicas avanzadas de aprendizaje automático para predecir fallos en los procesos de construcción de software. Nuestro objetivo es ayudar a los equipos de desarrollo a identificar potenciales problemas antes de que ocurran, mejorando así la eficiencia del proceso de desarrollo."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.es.html#descripción-del-proyecto",
-    "href": "projects/build_failure_prediction.es.html#descripción-del-proyecto",
-    "title": "Análisis Predictivo para Sistemas de Construcción",
-    "section": "",
-    "text": "Este proyecto se centra en el desarrollo de técnicas avanzadas de aprendizaje automático para predecir fallos en los procesos de construcción de software. Nuestro objetivo es ayudar a los equipos de desarrollo a identificar potenciales problemas antes de que ocurran, mejorando así la eficiencia del proceso de desarrollo."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.es.html#objetivos",
-    "href": "projects/build_failure_prediction.es.html#objetivos",
-    "title": "Análisis Predictivo para Sistemas de Construcción",
-    "section": "Objetivos",
-    "text": "Objetivos\n\nDesarrollar modelos predictivos precisos para fallos de construcción\nReducir el tiempo perdido en fallos de construcción\nMejorar la eficiencia de los pipelines de CI/CD\nCrear herramientas prácticas para equipos de desarrollo"
-  },
-  {
-    "objectID": "projects/build_failure_prediction.es.html#estado-actual",
-    "href": "projects/build_failure_prediction.es.html#estado-actual",
-    "title": "Análisis Predictivo para Sistemas de Construcción",
-    "section": "Estado Actual",
-    "text": "Estado Actual\nEl proyecto ha producido resultados prometedores, con un modelo que alcanza una precisión del 85% en la predicción de fallos de construcción. Actualmente estamos trabajando en mejorar la interpretabilidad del modelo y desarrollar una interfaz más amigable para los usuarios."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.es.html#publicaciones-relacionadas",
-    "href": "projects/build_failure_prediction.es.html#publicaciones-relacionadas",
-    "title": "Análisis Predictivo para Sistemas de Construcción",
-    "section": "Publicaciones Relacionadas",
-    "text": "Publicaciones Relacionadas\n\n“Predicción de Fallos de Construcción Usando Aprendizaje Automático” (ICSE 2024)\n“Análisis de Patrones de Fallo en Sistemas CI” (FSE 2023)"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Research Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nAdvanced Mutation Testing Framework\n\n\nTeam Members: Shane McIntosh, Nina Patel, Thomas Anderson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Program Analysis\n\n\n\n\nAnalyse Prédictive pour Systèmes de Construction\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Actif\n\n\nGitHub: Repository\n\n\nResearch Areas: Systèmes de Construction, Apprentissage Automatique\n\n\n\n\nAnálisis Predictivo para Sistemas de Construcción\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Activo\n\n\nGitHub: Repository\n\n\nResearch Areas: Sistemas de Construcción, Aprendizaje Automático\n\n\n\n\nAutomated Security Vulnerability Detection\n\n\nTeam Members: Shane McIntosh, Lisa Chen, Robert Taylor\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Security, Program Analysis\n\n\n\n\nAutomated Testing in Continuous Integration Pipelines\n\n\nTeam Members: Shane McIntosh, Sarah Chen\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nCode Review Analytics Platform\n\n\nTeam Members: Shane McIntosh, James Wilson, Maria Garcia\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nDeveloper Productivity Analytics Platform\n\n\nTeam Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Software Metrics\n\n\n\n\nIntelligent Dependency Management System\n\n\nTeam Members: Shane McIntosh, Alex Kumar, Sophie Martin\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Program Analysis\n\n\n\n\nMachine Learning Enhanced Static Analysis\n\n\nTeam Members: Shane McIntosh, Michael Zhang, David Lee\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Program Analysis, Machine Learning\n\n\n\n\nPredictive Analytics for Build Systems\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Build Systems, Machine Learning\n\n\n\n\nSoftware Evolution Pattern Analysis\n\n\nTeam Members: Shane McIntosh, Rachel Kim, Marco Silva\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "projects.es.html",
-    "href": "projects.es.html",
-    "title": "Proyectos de Investigación",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Categorías\n        \n     \n  \n\n\n\n\nAdvanced Mutation Testing Framework\n\n\nTeam Members: Shane McIntosh, Nina Patel, Thomas Anderson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Program Analysis\n\n\n\n\nAnalyse Prédictive pour Systèmes de Construction\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Actif\n\n\nGitHub: Repository\n\n\nResearch Areas: Systèmes de Construction, Apprentissage Automatique\n\n\n\n\nAnálisis Predictivo para Sistemas de Construcción\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Activo\n\n\nGitHub: Repository\n\n\nResearch Areas: Sistemas de Construcción, Aprendizaje Automático\n\n\n\n\nAutomated Security Vulnerability Detection\n\n\nTeam Members: Shane McIntosh, Lisa Chen, Robert Taylor\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Security, Program Analysis\n\n\n\n\nAutomated Testing in Continuous Integration Pipelines\n\n\nTeam Members: Shane McIntosh, Sarah Chen\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nCode Review Analytics Platform\n\n\nTeam Members: Shane McIntosh, James Wilson, Maria Garcia\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nDeveloper Productivity Analytics Platform\n\n\nTeam Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Software Metrics\n\n\n\n\nIntelligent Dependency Management System\n\n\nTeam Members: Shane McIntosh, Alex Kumar, Sophie Martin\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Program Analysis\n\n\n\n\nMachine Learning Enhanced Static Analysis\n\n\nTeam Members: Shane McIntosh, Michael Zhang, David Lee\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Program Analysis, Machine Learning\n\n\n\n\nPredictive Analytics for Build Systems\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Build Systems, Machine Learning\n\n\n\n\nSoftware Evolution Pattern Analysis\n\n\nTeam Members: Shane McIntosh, Rachel Kim, Marco Silva\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Categories\n        \n     \n  \n\n\n\n\nAdvanced Mutation Testing Framework\n\n\nTeam Members: Shane McIntosh, Nina Patel, Thomas Anderson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Program Analysis\n\n\n\n\nAutomated Security Vulnerability Detection\n\n\nTeam Members: Shane McIntosh, Lisa Chen, Robert Taylor\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Security, Program Analysis\n\n\n\n\nAutomated Testing in Continuous Integration Pipelines\n\n\nTeam Members: Shane McIntosh, Sarah Chen\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nCode Review Analytics Platform\n\n\nTeam Members: Shane McIntosh, James Wilson, Maria Garcia\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nDeveloper Productivity Analytics Platform\n\n\nTeam Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Software Metrics\n\n\n\n\nIntelligent Dependency Management System\n\n\nTeam Members: Shane McIntosh, Alex Kumar, Sophie Martin\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Program Analysis\n\n\n\n\nMachine Learning Enhanced Static Analysis\n\n\nTeam Members: Shane McIntosh, Michael Zhang, David Lee\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Program Analysis, Machine Learning\n\n\n\n\nPredictive Analytics for Build Systems\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Build Systems, Machine Learning\n\n\n\n\nSoftware Evolution Pattern Analysis\n\n\nTeam Members: Shane McIntosh, Rachel Kim, Marco Silva\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "news/tool_release.html",
@@ -189,46 +119,11 @@
     "text": "Our paper “Predictive Models for Build Failure Detection” has received the Best Paper Award at ICSE 2024. This work presents novel machine learning approaches for early detection of build failures in continuous integration pipelines, potentially saving significant development time and resources."
   },
   {
-    "objectID": "news/best_paper_icse.es.html",
-    "href": "news/best_paper_icse.es.html",
-    "title": "Premio al Mejor Artículo en ICSE 2024",
-    "section": "",
-    "text": "Nos complace anunciar que nuestro artículo “Build Failure Prediction Using Machine Learning” ha sido galardonado con el premio al mejor artículo en la International Conference on Software Engineering (ICSE) 2024.\nEste reconocimiento destaca la importancia de nuestro trabajo en la predicción de fallos en la construcción de software utilizando técnicas de aprendizaje automático."
-  },
-  {
     "objectID": "members/former/sarahchen.html",
     "href": "members/former/sarahchen.html",
     "title": "Sarah Chen",
     "section": "",
     "text": "Sarah Chen\n\n\n\n\nContact Information:\n\nCurrent Position: Software Engineer at Cloud Solutions Inc.\nEmail: sarah.chen@example.com\nResearch Interests: Build System Performance, Developer Productivity, Software Metrics\n\nAbout me:\nDuring my MSc studies, I researched ways to improve build system performance and measure developer productivity through meaningful software metrics. My work contributed to understanding how build system optimizations impact developer workflows and productivity. Now at Cloud Solutions Inc., I leverage this research background to implement efficient build pipelines and productivity tracking systems that help development teams work more effectively.\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members/former/mariagonzalez.fr.html",
-    "href": "members/former/mariagonzalez.fr.html",
-    "title": "María González",
-    "section": "",
-    "text": "María González était doctorante dans notre groupe de recherche de 2018 à 2023. Ses recherches se sont concentrées sur l’optimisation des systèmes d’intégration continue et l’analyse des modèles d’échec dans les constructions logicielles."
-  },
-  {
-    "objectID": "members/former/mariagonzalez.fr.html#contributions-principales",
-    "href": "members/former/mariagonzalez.fr.html#contributions-principales",
-    "title": "María González",
-    "section": "Contributions Principales",
-    "text": "Contributions Principales\n\nDéveloppement de techniques avancées pour la prédiction des échecs en CI\nAnalyse empirique des systèmes de construction dans les projets open source\nImplémentation d’outils pour l’optimisation des pipelines CI/CD"
-  },
-  {
-    "objectID": "members/former/mariagonzalez.fr.html#poste-actuel",
-    "href": "members/former/mariagonzalez.fr.html#poste-actuel",
-    "title": "María González",
-    "section": "Poste Actuel",
-    "text": "Poste Actuel\nMaría travaille maintenant comme Chercheuse Senior chez Software Engineering Labs, où elle poursuit ses recherches sur les systèmes d’intégration continue et DevOps."
-  },
-  {
-    "objectID": "members/former/mariagonzalez.fr.html#publications-notables",
-    "href": "members/former/mariagonzalez.fr.html#publications-notables",
-    "title": "María González",
-    "section": "Publications Notables",
-    "text": "Publications Notables\n\n“Prédiction des Échecs de Construction par Apprentissage Automatique” (ICSE 2024)\n“Analyse des Modèles d’Échec dans les Systèmes CI” (FSE 2023)"
   },
   {
     "objectID": "members/former/filipecogo.html",
@@ -243,13 +138,6 @@
     "title": "Shane McIntosh",
     "section": "",
     "text": "Shane McIntosh\n\n\n\n\nContact Information:\n\nEmail: member@example.com\n\nAffiliation: Research Group\n\nAbout me:\nI am a Professor specializing in software engineering research. My research interests focus on software build systems, software quality assurance, and mining software repositories. I work on developing techniques and tools to help software teams build and maintain high-quality software systems more effectively.\n\n\n\n\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members/current/shanemcintosh.es.html",
-    "href": "members/current/shanemcintosh.es.html",
-    "title": "Shane McIntosh",
-    "section": "",
-    "text": "Shane McIntosh es profesor principal en el grupo de investigación. Sus intereses de investigación incluyen:\n\nSistemas de construcción de software\nIntegración continua\nAnálisis empírico de software"
   },
   {
     "objectID": "members/current/maximelamothe.html",
@@ -270,63 +158,21 @@
     "href": "members.html",
     "title": "Members",
     "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
+    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#current-members",
     "href": "members.html#current-members",
     "title": "Members",
     "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
+    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "members.html#former-members",
     "href": "members.html#former-members",
     "title": "Members",
     "section": "Former Members",
-    "text": "Former Members\n\n\n\n\n  \n\nAlex Wilson\n\n\nFormer MSc Student\n\n\n\n  \n\nFilipe R. Cogo\n\n\nFormer PhD Student\n\n\n\n  \n\nMaría González\n\n\nAntigua Estudiante de Doctorado\n\n\n\n  \n\nMaría González\n\n\nAncienne Doctorante\n\n\n\n  \n\nMaria Gonzalez\n\n\nFormer PhD Student\n\n\n\n  \n\nSarah Chen\n\n\nFormer MSc Student\n\n\n\n  \n\nYuki Liu\n\n\nFormer PhD Student\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members.es.html",
-    "href": "members.es.html",
-    "title": "Miembros",
-    "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members.es.html#miembros-actuales",
-    "href": "members.es.html#miembros-actuales",
-    "title": "Miembros",
-    "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members.es.html#antiguos-miembros",
-    "href": "members.es.html#antiguos-miembros",
-    "title": "Miembros",
-    "section": "Antiguos Miembros",
-    "text": "Antiguos Miembros\n\n\n\n\n  \n\nMaría González\n\n\nAntigua Estudiante de Doctorado\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.fr.html",
-    "href": "index.fr.html",
-    "title": "Groupe de Recherche",
-    "section": "",
-    "text": "Notre Groupe de Recherche à XXXXXXX\n\n\n\n\n\nNous sommes un groupe de recherche dynamique qui se concentre sur l’avancement du domaine du génie logiciel grâce à la recherche innovante et aux applications pratiques. Notre équipe combine une expertise en développement logiciel, en études empiriques et en apprentissage automatique pour relever les défis des pratiques modernes de développement logiciel. Nous collaborons avec des partenaires industriels et des institutions académiques du monde entier pour mener des recherches percutantes qui façonnent l’avenir du génie logiciel.\n\n\n\n\n\n\n\n\n\n\n\n\nExciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.fr.html#à-propos-de-nous",
-    "href": "index.fr.html#à-propos-de-nous",
-    "title": "Groupe de Recherche",
-    "section": "",
-    "text": "Nous sommes un groupe de recherche dynamique qui se concentre sur l’avancement du domaine du génie logiciel grâce à la recherche innovante et aux applications pratiques. Notre équipe combine une expertise en développement logiciel, en études empiriques et en apprentissage automatique pour relever les défis des pratiques modernes de développement logiciel. Nous collaborons avec des partenaires industriels et des institutions académiques du monde entier pour mener des recherches percutantes qui façonnent l’avenir du génie logiciel."
-  },
-  {
-    "objectID": "index.fr.html#dernières-nouvelles",
-    "href": "index.fr.html#dernières-nouvelles",
-    "title": "Groupe de Recherche",
-    "section": "",
-    "text": "Exciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
+    "text": "Former Members\n\n\n\n\n  \n\nAlex Wilson\n\n\nFormer MSc Student\n\n\n\n  \n\nFilipe R. Cogo\n\n\nFormer PhD Student\n\n\n\n  \n\nMaria Gonzalez\n\n\nFormer PhD Student\n\n\n\n  \n\nSarah Chen\n\n\nFormer MSc Student\n\n\n\n  \n\nYuki Liu\n\n\nFormer PhD Student\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "contact.html",
@@ -343,74 +189,11 @@
     "text": "Our research group is located at Universidad Católica de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chile\n\n\n\nThe university is centrally located in Temuco and is accessible via:\n\nPublic bus routes serving downtown Temuco\nWalking distance from Plaza de Armas\nTaxi and ride-sharing services\nBicycle routes through central Temuco"
   },
   {
-    "objectID": "contact.es.html",
-    "href": "contact.es.html",
-    "title": "Research Group",
-    "section": "",
-    "text": "Nuestro grupo de investigación está ubicado en la Universidad Católica de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chile\n\n\n\nLa universidad está ubicada en el centro de Temuco y es accesible a través de:\n\nRutas de buses públicos que sirven al centro de Temuco\nDistancia caminable desde la Plaza de Armas\nServicios de taxi y transporte compartido\nRutas para bicicletas a través del centro de Temuco"
-  },
-  {
-    "objectID": "contact.es.html#nuestra-ubicación",
-    "href": "contact.es.html#nuestra-ubicación",
-    "title": "Research Group",
-    "section": "",
-    "text": "Nuestro grupo de investigación está ubicado en la Universidad Católica de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chile\n\n\n\nLa universidad está ubicada en el centro de Temuco y es accesible a través de:\n\nRutas de buses públicos que sirven al centro de Temuco\nDistancia caminable desde la Plaza de Armas\nServicios de taxi y transporte compartido\nRutas para bicicletas a través del centro de Temuco"
-  },
-  {
-    "objectID": "about.fr.html",
-    "href": "about.fr.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
-    "objectID": "about.es.html",
-    "href": "about.es.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site"
-  },
-  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About",
     "section": "",
     "text": "About this site"
-  },
-  {
-    "objectID": "contact.fr.html",
-    "href": "contact.fr.html",
-    "title": "Research Group",
-    "section": "",
-    "text": "Notre groupe de recherche est situé à l’Université Catholique de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chili\n\n\n\nL’université est située au centre de Temuco et est accessible via :\n\nLes lignes de bus publics desservant le centre-ville de Temuco\nÀ distance de marche de la Plaza de Armas\nServices de taxi et de covoiturage\nPistes cyclables à travers le centre de Temuco"
-  },
-  {
-    "objectID": "contact.fr.html#notre-localisation",
-    "href": "contact.fr.html#notre-localisation",
-    "title": "Research Group",
-    "section": "",
-    "text": "Notre groupe de recherche est situé à l’Université Catholique de Temuco.\n\n\n\n\n\n\n\nUniversidad Católica de Temuco\nCampus San Francisco\nManuel Montt 56\nTemuco, Chili\n\n\n\nL’université est située au centre de Temuco et est accessible via :\n\nLes lignes de bus publics desservant le centre-ville de Temuco\nÀ distance de marche de la Plaza de Armas\nServices de taxi et de covoiturage\nPistes cyclables à travers le centre de Temuco"
-  },
-  {
-    "objectID": "index.es.html",
-    "href": "index.es.html",
-    "title": "Grupo de Investigación",
-    "section": "",
-    "text": "Nuestro Grupo de Investigación en XXXXXXX\n\n\n\n\n\nSomos un grupo de investigación dinámico enfocado en avanzar en el campo de la ingeniería de software a través de investigación innovadora y aplicaciones prácticas. Nuestro equipo combina experiencia en desarrollo de software, estudios empíricos y aprendizaje automático para abordar problemas desafiantes en las prácticas modernas de desarrollo de software. Colaboramos con socios de la industria e instituciones académicas en todo el mundo para impulsar investigaciones impactantes que dan forma al futuro de la ingeniería de software.\n\n\n\n\n\n\n\n\n\n\n\n\nExciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "index.es.html#sobre-nosotros",
-    "href": "index.es.html#sobre-nosotros",
-    "title": "Grupo de Investigación",
-    "section": "",
-    "text": "Somos un grupo de investigación dinámico enfocado en avanzar en el campo de la ingeniería de software a través de investigación innovadora y aplicaciones prácticas. Nuestro equipo combina experiencia en desarrollo de software, estudios empíricos y aprendizaje automático para abordar problemas desafiantes en las prácticas modernas de desarrollo de software. Colaboramos con socios de la industria e instituciones académicas en todo el mundo para impulsar investigaciones impactantes que dan forma al futuro de la ingeniería de software."
-  },
-  {
-    "objectID": "index.es.html#últimas-noticias",
-    "href": "index.es.html#últimas-noticias",
-    "title": "Grupo de Investigación",
-    "section": "",
-    "text": "Exciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
@@ -434,27 +217,6 @@
     "text": "Exciting new partnership with MIT’s Software Engineering Lab focusing on automated testing and verification techniques.\n\n\n\n\n\nMar 15, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research on build failure prediction using machine learning receives top recognition at ICSE 2024.\n\n\n\n\n\nFeb 28, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nSarah Chen successfully defends her PhD thesis on advanced mutation testing strategies for modern software systems.\n\n\n\n\n\nFeb 10, 2024\n\n\n#\n\n\n\n\n\n\n\n\n\n\n\nOur research group has been awarded a significant grant to study software testing practices in large-scale systems.\n\n\n\n\n\nFeb 1, 2024\n\n\n\n\n\n\n\n\n\n\n\nFirst International Workshop on CI/CD Intelligence to be held at FSE 2024, focusing on AI/ML applications in CI/CD.\n\n\n\n\n\nJan 25, 2024\n\n\n#\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "members.fr.html",
-    "href": "members.fr.html",
-    "title": "Membres",
-    "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members.fr.html#membres-actuels",
-    "href": "members.fr.html#membres-actuels",
-    "title": "Membres",
-    "section": "",
-    "text": "PhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nPhD Student\n\n\n\n  \n\n\nPhD Candidate\n\n\n\n  \n\n\nMSc Student\n\n\n\n  \n\n\nProfesor Principal\n\n\n\n  \n\n\nProfesseur Principal\n\n\n\n  \n\n\nProfessor\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members.fr.html#anciens-membres",
-    "href": "members.fr.html#anciens-membres",
-    "title": "Membres",
-    "section": "Anciens Membres",
-    "text": "Anciens Membres\n\n\n\n\n  \n\nMaría González\n\n\nAncienne Doctorante\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "members/current/davidkim.html",
     "href": "members/current/davidkim.html",
     "title": "David Kim",
@@ -476,46 +238,11 @@
     "text": "Raj Patel\n\n\n\n\nContact Information:\n\nEmail: raj.patel@example.com\n\nAffiliation: Research Group\nResearch Interests: Code Review Analytics, Developer Productivity Metrics, Knowledge Management\n\nAbout me:\nI am an MSc student focusing on improving software development processes through data-driven insights. My research explores how to enhance code review practices and measure developer productivity effectively. I am particularly interested in understanding how knowledge flows through development teams and creating tools that can help capture and share this knowledge more efficiently.\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "members/current/shanemcintosh.fr.html",
-    "href": "members/current/shanemcintosh.fr.html",
-    "title": "Shane McIntosh",
-    "section": "",
-    "text": "Shane McIntosh est professeur principal dans le groupe de recherche. Ses intérêts de recherche comprennent:\n\nSystèmes de construction de logiciels\nIntégration continue\nAnalyse empirique des logiciels"
-  },
-  {
     "objectID": "members/former/alexwilson.html",
     "href": "members/former/alexwilson.html",
     "title": "Alex Wilson",
     "section": "",
     "text": "Alex Wilson\n\n\n\n\nContact Information:\n\nCurrent Position: Research Engineer at Software Analytics Lab\nEmail: alex.wilson@example.com\nResearch Interests: Code Evolution Analysis, Software Metrics, Knowledge Loss Prevention\n\nAbout me:\nDuring my MSc studies, I focused on understanding how software systems evolve over time and developing methods to preserve critical development knowledge. My research contributed to better understanding of code evolution patterns and ways to prevent knowledge loss in software teams. Now, as a Research Engineer at Software Analytics Lab, I continue to work on developing tools and metrics that help teams better understand and manage their software systems.\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "members/former/mariagonzalez.es.html",
-    "href": "members/former/mariagonzalez.es.html",
-    "title": "María González",
-    "section": "",
-    "text": "María González fue estudiante de doctorado en nuestro grupo de investigación desde 2018 hasta 2023. Su investigación se centró en la optimización de sistemas de integración continua y el análisis de patrones de fallo en construcciones de software."
-  },
-  {
-    "objectID": "members/former/mariagonzalez.es.html#contribuciones-principales",
-    "href": "members/former/mariagonzalez.es.html#contribuciones-principales",
-    "title": "María González",
-    "section": "Contribuciones Principales",
-    "text": "Contribuciones Principales\n\nDesarrollo de técnicas avanzadas para la predicción de fallos en CI\nAnálisis empírico de sistemas de construcción en proyectos de código abierto\nImplementación de herramientas para la optimización de pipelines de CI/CD"
-  },
-  {
-    "objectID": "members/former/mariagonzalez.es.html#posición-actual",
-    "href": "members/former/mariagonzalez.es.html#posición-actual",
-    "title": "María González",
-    "section": "Posición Actual",
-    "text": "Posición Actual\nMaría ahora trabaja como Investigadora Senior en Software Engineering Labs, donde continúa su investigación en sistemas de integración continua y DevOps."
-  },
-  {
-    "objectID": "members/former/mariagonzalez.es.html#publicaciones-destacadas",
-    "href": "members/former/mariagonzalez.es.html#publicaciones-destacadas",
-    "title": "María González",
-    "section": "Publicaciones Destacadas",
-    "text": "Publicaciones Destacadas\n\n“Predicción de Fallos de Construcción Usando Aprendizaje Automático” (ICSE 2024)\n“Análisis de Patrones de Fallo en Sistemas CI” (FSE 2023)"
   },
   {
     "objectID": "members/former/mariagonzalez.html",
@@ -530,13 +257,6 @@
     "title": "Yuki Liu",
     "section": "",
     "text": "Yuki Liu\n\n\n\n\nContact Information:\n\nCurrent Position: Security Researcher at CyberSec Institute\nEmail: yuki.liu@example.com\nResearch Interests: Security Vulnerability Detection, Flaky Test Analysis, Test Suite Evolution\n\nAbout me:\nMy PhD research focused on improving software security and testing practices, with particular emphasis on automated vulnerability detection and addressing flaky tests. I developed novel approaches for analyzing test suite evolution and identifying security vulnerabilities in software systems. Currently, as a Security Researcher at CyberSec Institute, I continue to advance the field of software security through research and development of automated vulnerability detection techniques.\n\n\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "news/best_paper_icse.fr.html",
-    "href": "news/best_paper_icse.fr.html",
-    "title": "Prix du Meilleur Article à ICSE 2024",
-    "section": "",
-    "text": "Nous sommes ravis d’annoncer que notre article “Build Failure Prediction Using Machine Learning” a reçu le prix du meilleur article à la International Conference on Software Engineering (ICSE) 2024.\nCette reconnaissance souligne l’importance de notre travail sur la prédiction des échecs de construction logicielle utilisant des techniques d’apprentissage automatique."
   },
   {
     "objectID": "news/industry_partnership.html",
@@ -581,53 +301,11 @@
     "text": "Our research group will be organizing the 1st International Workshop on CI/CD Intelligence (CI-Intel 2024) at FSE 2024. This workshop aims to bring together researchers and practitioners working on applying AI/ML techniques to improve continuous integration and delivery processes. Call for papers will be announced soon."
   },
   {
-    "objectID": "projects.fr.html",
-    "href": "projects.fr.html",
-    "title": "Projets de Recherche",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Catégories\n        \n     \n  \n\n\n\n\nAdvanced Mutation Testing Framework\n\n\nTeam Members: Shane McIntosh, Nina Patel, Thomas Anderson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Program Analysis\n\n\n\n\nAnalyse Prédictive pour Systèmes de Construction\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Actif\n\n\nGitHub: Repository\n\n\nResearch Areas: Systèmes de Construction, Apprentissage Automatique\n\n\n\n\nAnálisis Predictivo para Sistemas de Construcción\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Activo\n\n\nGitHub: Repository\n\n\nResearch Areas: Sistemas de Construcción, Aprendizaje Automático\n\n\n\n\nAutomated Security Vulnerability Detection\n\n\nTeam Members: Shane McIntosh, Lisa Chen, Robert Taylor\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Security, Program Analysis\n\n\n\n\nAutomated Testing in Continuous Integration Pipelines\n\n\nTeam Members: Shane McIntosh, Sarah Chen\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Testing, Continuous Integration\n\n\n\n\nCode Review Analytics Platform\n\n\nTeam Members: Shane McIntosh, James Wilson, Maria Garcia\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nDeveloper Productivity Analytics Platform\n\n\nTeam Members: Shane McIntosh, Julia Chen, Carlos Rodriguez\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Software Metrics\n\n\n\n\nIntelligent Dependency Management System\n\n\nTeam Members: Shane McIntosh, Alex Kumar, Sophie Martin\n\n\nStatus: Completed\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Program Analysis\n\n\n\n\nMachine Learning Enhanced Static Analysis\n\n\nTeam Members: Shane McIntosh, Michael Zhang, David Lee\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Program Analysis, Machine Learning\n\n\n\n\nPredictive Analytics for Build Systems\n\n\nTeam Members: Shane McIntosh, Toshiki Hirao, Emma Wilson\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Build Systems, Machine Learning\n\n\n\n\nSoftware Evolution Pattern Analysis\n\n\nTeam Members: Shane McIntosh, Rachel Kim, Marco Silva\n\n\nStatus: Active\n\n\nGitHub: Repository\n\n\nResearch Areas: Software Evolution, Machine Learning\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "projects/automated_ci_testing.html",
     "href": "projects/automated_ci_testing.html",
     "title": "Automated Testing in Continuous Integration Pipelines",
     "section": "",
     "text": "Team Members: Shane McIntosh, Sarah Chen\nStatus: Active\nResearch Areas: Software Testing, Continuous Integration\nGitHub: Repository\nProject Overview: This project investigates novel approaches to improve automated testing in CI pipelines. We focus on developing intelligent test selection and prioritization strategies that can reduce build times while maintaining test effectiveness.\nKey Objectives: - Develop machine learning models for test selection - Create adaptive test prioritization algorithms - Reduce CI pipeline execution time - Maintain or improve test coverage and effectiveness\nCurrent Progress: - Completed initial data collection from open-source projects - Implemented prototype test selection algorithm - Evaluating performance on real-world CI pipelines - Preparing experimental framework for comparative analysis"
-  },
-  {
-    "objectID": "projects/build_failure_prediction.fr.html",
-    "href": "projects/build_failure_prediction.fr.html",
-    "title": "Analyse Prédictive pour Systèmes de Construction",
-    "section": "",
-    "text": "Ce projet se concentre sur le développement de techniques avancées d’apprentissage automatique pour prédire les échecs dans les processus de construction de logiciels. Notre objectif est d’aider les équipes de développement à identifier les problèmes potentiels avant qu’ils ne surviennent, améliorant ainsi l’efficacité du processus de développement."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.fr.html#description-du-projet",
-    "href": "projects/build_failure_prediction.fr.html#description-du-projet",
-    "title": "Analyse Prédictive pour Systèmes de Construction",
-    "section": "",
-    "text": "Ce projet se concentre sur le développement de techniques avancées d’apprentissage automatique pour prédire les échecs dans les processus de construction de logiciels. Notre objectif est d’aider les équipes de développement à identifier les problèmes potentiels avant qu’ils ne surviennent, améliorant ainsi l’efficacité du processus de développement."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.fr.html#objectifs",
-    "href": "projects/build_failure_prediction.fr.html#objectifs",
-    "title": "Analyse Prédictive pour Systèmes de Construction",
-    "section": "Objectifs",
-    "text": "Objectifs\n\nDévelopper des modèles prédictifs précis pour les échecs de construction\nRéduire le temps perdu en échecs de construction\nAméliorer l’efficacité des pipelines CI/CD\nCréer des outils pratiques pour les équipes de développement"
-  },
-  {
-    "objectID": "projects/build_failure_prediction.fr.html#état-actuel",
-    "href": "projects/build_failure_prediction.fr.html#état-actuel",
-    "title": "Analyse Prédictive pour Systèmes de Construction",
-    "section": "État Actuel",
-    "text": "État Actuel\nLe projet a produit des résultats prometteurs, avec un modèle atteignant une précision de 85% dans la prédiction des échecs de construction. Nous travaillons actuellement à améliorer l’interprétabilité du modèle et à développer une interface plus conviviale."
-  },
-  {
-    "objectID": "projects/build_failure_prediction.fr.html#publications-associées",
-    "href": "projects/build_failure_prediction.fr.html#publications-associées",
-    "title": "Analyse Prédictive pour Systèmes de Construction",
-    "section": "Publications Associées",
-    "text": "Publications Associées\n\n“Prédiction des Échecs de Construction par Apprentissage Automatique” (ICSE 2024)\n“Analyse des Modèles d’Échec dans les Systèmes CI” (FSE 2023)"
   },
   {
     "objectID": "projects/code_evolution_analysis.html",
@@ -658,39 +336,11 @@
     "text": "Team Members: Shane McIntosh, Lisa Chen, Robert Taylor\nStatus: Active\nResearch Areas: Software Security, Program Analysis\nGitHub: Repository\nProject Overview: This project develops automated techniques for detecting security vulnerabilities in software systems. We combine static analysis, dynamic testing, and machine learning to identify potential security issues early in the development process.\nKey Objectives: - Develop hybrid analysis techniques for vulnerability detection - Create pattern recognition models for security anti-patterns - Build automated security testing frameworks - Generate detailed vulnerability reports with remediation steps\nCurrent Progress: - Implemented initial vulnerability detection engine - Created database of common security patterns - Developed automated test generation for security scenarios - Testing integration with development workflows"
   },
   {
-    "objectID": "publications.fr.html",
-    "href": "publications.fr.html",
-    "title": "Liste des Publications",
-    "section": "",
-    "text": "Order By\n       Default\n         \n          Catégories\n        \n     \n  \n\n\n\n\nAnalyzing Resource Waste in Large-Scale Software Ecosystems\n\n\nAuthors: Keheliya Gallaba,Mahboob Alfadel\n\n\nVenue: EMSE 2022\n\n\nPreprint: PDF\n\n\nRelated Tags: EMSE,2022,Software Logging\n\n\n\n\nFlaky Tests in Software Development: Causes and Remedies\n\n\nAuthors: Toshiki Hirao,Rungroj Maipradit\n\n\nVenue: MSR 2018\n\n\nPreprint: PDF\n\n\nRelated Tags: MSR,2018,Defect Prediction\n\n\n\n\nImproving Continuous Integration with Static Analysis Tools\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: FSE 2023\n\n\nPreprint: PDF\n\n\nRelated Tags: FSE,2023,Software Evolution\n\n\n\n\nImproving Software Build Performance with Automated Tools\n\n\nAuthors: Faizan Khan,Keheliya Gallaba\n\n\nVenue: TSE 2020\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2020,Build Systems\n\n\n\n\nKnowledge Loss in Software Evolution\n\n\nAuthors: Shane McIntosh,Farida El Zanaty\n\n\nVenue: ESEM 2016\n\n\nPreprint: PDF\n\n\nRelated Tags: ESEM,2016,Software Ecosystems\n\n\n\n\nMitigating the Uncertainty and Imprecision of Log-Based Code Coverage Without Requiring Additional Logging Statements\n\n\nAuthors: Shane McIntosh,Filipe R. Cogo\n\n\nVenue: IEEE Transactions on Software Engineering, pp. To appear, 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: TSE,2024,Software Logging\n\n\n\n\nPredicción de Fallos de Construcción Usando Aprendizaje Automático\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Integración Continua,Aprendizaje Automático\n\n\n\n\nPredicting Build Failures in Modern Software Systems\n\n\nAuthors: Toshiki Hirao,Farshad Kazemi\n\n\nVenue: ICSE 2024\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSE,2024,Software Quality\n\n\n\n\nPrédiction des Échecs de Construction par Apprentissage Automatique\n\n\nAuthors: Shane McIntosh, Maria González, David Kim\n\n\nVenue: International Conference on Software Engineering (ICSE)\n\n\nPreprint: PDF\n\n\nRelated Tags: Intégration Continue,Apprentissage Automatique\n\n\n\n\nSonification of Software Metrics for Code Review\n\n\nAuthors: Shane McIntosh,Mingyang Yin\n\n\nVenue: ICSME 2019\n\n\nPreprint: PDF\n\n\nRelated Tags: ICSME,2019,Software Evolution\n\n\n\n\nStatic Analysis Tools for Build System Optimization\n\n\nAuthors: Faizan Khan,Maxime Lamothe\n\n\nVenue: APSEC 2017\n\n\nPreprint: PDF\n\n\nRelated Tags: APSEC,2017,Software Logging\n\n\n\n\nUnderstanding Anti-patterns in Software Development\n\n\nAuthors: Mahboob Alfadel,Rungroj Maipradit\n\n\nVenue: ASE 2021\n\n\nPreprint: PDF\n\n\nRelated Tags: ASE,2021,Software Logging\n\n\n\n\nNo matching items"
-  },
-  {
     "objectID": "publications/antipatterns_analysis_ase2021.html",
     "href": "publications/antipatterns_analysis_ase2021.html",
     "title": "Understanding Anti-patterns in Software Development",
     "section": "",
     "text": "Authors: Mahboob Alfadel, Rungroj Maipradit\nVenue: ASE 2021\nRelated Tags: ASE, 2021\nPre-print: PDF\nAbstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua…\nBibTeX:\n@article{example,\n  title = Understanding Anti-patterns in Software Development,\n  author = Mahboob Alfadel and Rungroj Maipradit,\n  journal = ASE 2021,\n  year = anti-patterns,\n}"
-  },
-  {
-    "objectID": "publications/build_failure_prediction_icse2024.fr.html",
-    "href": "publications/build_failure_prediction_icse2024.fr.html",
-    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
-    "section": "",
-    "text": "Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d’apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu’ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives."
-  },
-  {
-    "objectID": "publications/build_failure_prediction_icse2024.fr.html#résumé",
-    "href": "publications/build_failure_prediction_icse2024.fr.html#résumé",
-    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
-    "section": "",
-    "text": "Cet article présente une approche novatrice pour prédire les échecs de construction de logiciels en utilisant des techniques d’apprentissage automatique. Notre modèle peut identifier les échecs de construction potentiels avant qu’ils ne se produisent, permettant aux équipes de développement de prendre des mesures préventives."
-  },
-  {
-    "objectID": "publications/build_failure_prediction_icse2024.fr.html#contributions-principales",
-    "href": "publications/build_failure_prediction_icse2024.fr.html#contributions-principales",
-    "title": "Prédiction des Échecs de Construction par Apprentissage Automatique",
-    "section": "Contributions Principales",
-    "text": "Contributions Principales\n\nDéveloppement d’un modèle prédictif pour les échecs de construction\nAnalyse approfondie des modèles d’échec dans les systèmes CI\nÉvaluation empirique sur des projets logiciels open source\nOutil open source pour la prédiction des échecs"
   },
   {
     "objectID": "publications/build_optimization_apsec2017.html",
