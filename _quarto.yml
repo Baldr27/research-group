@@ -1,0 +1,51 @@
+project:
+  type: website
+  output-dir: _site
+  render:
+    - "*.qmd"
+    - "!.ipynb_checkpoints"
+
+format:
+  html:
+    theme:
+      light: [lightly, theme-light.scss]
+      dark: [darkly, theme-dark.scss]
+    css: styles.css
+    toc: false
+    page-layout: full
+    anchor-sections: false
+
+website:
+  title: "Research Group"
+  site-url: "http://127.0.0.1:4321"
+  description: "Research Group Website"
+  navbar:
+    title: "Research Group"
+    search: true
+    logo: ./assets/logo.png
+    left:
+      - text: Members
+        href: members.qmd
+      - text: Publications
+        href: publications.qmd
+      - text: Projects
+        href: projects.qmd
+      - text: Contact
+        href: contact.qmd
+
+babelquarto:
+  languagelinks: navbar
+  languagecodes:
+  - name: es
+    text: "Español"
+  - name: fr
+    text: "Français"
+  - name: en
+    text: "English"
+  mainlanguage: 'en'
+  languages: ['es', 'fr']
+title-es: "Grupo de Investigación"
+title-fr: "Groupe de Recherche"
+description-es: "Sitio web del grupo de investigación"
+description-fr: "Site web du groupe de recherche"
+lang: en

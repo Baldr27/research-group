@@ -1,0 +1,14 @@
+website:
+  navbar:
+    title: "Grupo de Investigación"
+    left:
+      - text: "Inicio"
+        href: index.qmd
+      - text: "Miembros"
+        href: members.qmd
+      - text: "Publicaciones"
+        href: publications.qmd
+      - text: "Proyectos"
+        href: projects.qmd
+      - text: "Contacto"
+        href: contact.qmd
